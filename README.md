@@ -18,7 +18,7 @@
 ## **Get Started**:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/StreamShare.git
+   git clone https://github.com/evanboddu/StreamShare.git
 2. Install Dependencies:
    ```bash
    cd StreamShare
